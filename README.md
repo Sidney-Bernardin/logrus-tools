@@ -1,6 +1,6 @@
-# logrus-tools
+# Logrus Tools
 
-## middleware
+## Middleware example.
 ```golang
 package main
 
