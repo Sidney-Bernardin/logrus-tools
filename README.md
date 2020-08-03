@@ -2,7 +2,7 @@
 
 ## Middleware.
 
-### Example:
+#### Example:
 ```golang
 package main
 
@@ -24,7 +24,7 @@ func main() {
 }
 ```
 
-### Output:
+#### Output:
 ```
 Aug  3 12:43:34.257 [INFO] [id:f31f6c9f-8cc5-46ee-ad44-3e57c1832292] [addr:[::1]:12345] [status:200] [method:GET] [url:/example] [time:702.321µs] [chars:22] [referer:] [user-agent:curl/7.64.0] Handled request!
 ```
